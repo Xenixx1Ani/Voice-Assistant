@@ -20,9 +20,7 @@ To get started with the chatbot, follow these steps:
     ```
 
 2. **Install the required packages**:
-    ```bash
-    pip install -r requirements.txt
-    ```
+    All packages have been  imported in the notebook and can be installed via pip.
 
 3. **Run the chatbot**:
     Open the notebook in Google Colab or Jupyter Notebook and run the cells to start the chatbot.
